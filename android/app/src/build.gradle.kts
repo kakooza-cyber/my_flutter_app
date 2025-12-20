@@ -12,7 +12,7 @@ plugins {
 
 android {
 
-    namespace = "com.example.quotely"
+    namespace = "com.figtech.quotely"
 
     compileSdk = 34
 
